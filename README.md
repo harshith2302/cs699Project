@@ -1,6 +1,6 @@
 #  IITBay: Buy, Sell and Find @ IITB  
 
-**GitHub Repository:** [https://github.com/vineeth-babu/cs699Project](https://github.com/vineeth-babu/cs699Project)
+**GitHub Repository:** [https://github.com/harshith2302/cs699Project](https://github.com/harshith2302/cs699Project)
 
 ##  Team Details  
 
